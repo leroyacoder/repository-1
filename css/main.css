@@ -1,0 +1,13 @@
+/* сюда переносим все, что мы написали в main.html */
+
+h1{color: chartreuse;}
+        .text1{
+            text-decoration: underline;
+        font-size: 8vw;}
+            #link_a{
+                text-decoration: none;
+                font-size: 40px;
+                color: darkslategray;
+                width: 100%;
+
+            }
